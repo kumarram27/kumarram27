@@ -5,12 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kumarram27">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="32" width="32" src="https://cdn.simpleicons.org/github">
-    </picture>
-  </a>
   &#8287;
   <a href="https://www.linkedin.com/in/peterthehan" target="_blank">
     <img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://cdn.simpleicons.org/linkedin">
