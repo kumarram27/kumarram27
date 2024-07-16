@@ -5,11 +5,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kumar+....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kumarram27&layout=compact&theme=darcula&hide_border=true&background=FFFFFF00" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarram27&locale=en&hide_title=false&layout=compact&bg_color=00000000&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 
-</div>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" title="typescript" alt="typescript logo"  />
   <img width="12" />
@@ -72,15 +69,19 @@
 </p>
 <p align="center">
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kumarram27&layout=compact&theme=darcula&hide_border=true&background=FFFFFF00" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarram27&locale=en&hide_title=false&layout=compact&bg_color=00000000&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/kumarram27/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=kumarram27&theme=react&border=61dafb&hide_border=true" alt="kumarram27" />
+      <img align="left" src="https://streak-stats.demolab.com/?user=kumarram27&theme=react&border=61dafb&hide_border=true" alt="kumarram27" />
     </a>
-    <a href="https://github.com/kumarram27/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=kumarram27&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <!-- <a href="https://github.com/kumarram27/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=kumarram27&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /> -->
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
