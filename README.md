@@ -80,15 +80,16 @@
     <a href="https://github.com/kumarram27/github-readme-streak-stats" title="Go to Source">
       <img align="left" src="https://streak-stats.demolab.com/?user=kumarram27&theme=react&border=61dafb&hide_border=true" alt="kumarram27" />
     </a>
-    <!-- <a href="https://github.com/kumarram27/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=kumarram27&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /> -->
-    </a>
-  </div>
-  
-  <div align=center>
     <a href="https://github.com/kumarram27/github-readme-stats">
       <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarram27&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
+    <!-- <a href="https://github.com/kumarram27/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=kumarram27&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a> -->
+  </div>
+  
+  <div align=center>
+    
   </div>
   <br>
 
