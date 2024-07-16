@@ -1,10 +1,9 @@
-
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kumar+....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/kumarram27" >
     <picture>
@@ -17,7 +16,11 @@
   <a href="https://www.npmjs.com/~kumarsatyasriram" target="_blank" >
     <img alt="npm" title="npm" height="32" width="32" src="https://cdn.simpleicons.org/npm"></a>
 </p>
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=kumarram27.kumarram27">
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kumarram27&color=blue&style=for-the-badge">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kumarram27.kumarram27">
+
 <br><br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" title="typescript" alt="typescript logo"  />
