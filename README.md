@@ -5,21 +5,21 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kumarram27" >
+  <a href="https://github.com/kumarram27">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="32" width="32" src="https://cdn.simpleicons.org/github"></picture></a>
-      &#8287;
-  <a href="https://www.linkedin.com/in/peterthehan" target="_blank" >
-    <img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://cdn.simpleicons.org/linkedin"></a>
-    &#8287;
-  <a href="https://www.npmjs.com/~kumarsatyasriram" target="_blank" >
-    <img alt="npm" title="npm" height="32" width="32" src="https://cdn.simpleicons.org/npm"></a>
+      <img alt="GitHub" title="GitHub" height="32" width="32" src="https://cdn.simpleicons.org/github">
+    </picture>
+  </a>
+  &#8287;
+  <a href="https://www.linkedin.com/in/peterthehan" target="_blank">
+    <img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://cdn.simpleicons.org/linkedin">
+  </a>
+  &#8287;
+  <a href="https://www.npmjs.com/~kumarsatyasriram" target="_blank">
+    <img alt="npm" title="npm" height="32" width="32" src="https://cdn.simpleicons.org/npm">
+  </a>
 </p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kumarram27&color=blue&style=for-the-badge">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kumarram27.kumarram27">
 
 <br><br>
 <div align="center">
@@ -59,83 +59,37 @@
 </div>
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
 </p>
-<p align="center">
-
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<p align=center>
-  <div align=center>
+<p align="center">
+  <div align="center">
     <a href="https://github.com/kumarram27/github-readme-streak-stats" title="Go to Source">
       <img align="left" height=180 src="https://streak-stats.demolab.com/?user=kumarram27&theme=react&border=61dafb&background=FFFFFF00&hide_border=true" alt="kumarram27" />
     </a>
     <a href="https://github.com/kumarram27/github-readme-stats">
       <img align="right" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarram27&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&bg_color=00000000&count_weight=0.5" />
     </a>
-    <!-- <a href="https://github.com/kumarram27/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=kumarram27&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a> -->
   </div>
-
   <br><br>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarram27&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-
 
 <h4 align="center">
   <a href="https://github.com/kumarram27?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h4>
 
-
-### Profile Views
-<img src="https://profile-counter.glitch.me/kumarram27/count.svg" />
-
-
 <br>
 
 <img src="https://raw.githubusercontent.com/kumarram27/kumarram27/output/snake.svg" alt="Snake animation" />
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/kumarram27/kumarram27/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/kumarram27/kumarram27/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/kumarram27/kumarram27/output/github-contribution-grid-snake.svg"
-  />
-</picture> -->
-
-<!-- <details>
-<summary>Click for GitHub Stats</summary> -->
-<!-- <p align="center"> -->
-  <!-- <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=kumarram27&show_icons=true&count_private=true&layout=compact&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"> -->
-  <!-- [![Portfolio](https://svg.bookmark.style/api?url=https://github.com/kumarram27/kumarram27.github.io&mode=dark&style=horizontal)](https://github.com/kumarram27/kumarram27.github.io)
-
-  [![Auth UI Vue](https://svg.bookmark.style/api?url=https://github.com/kumarram27/pricetracker&mode=dark&style=vertical)](https://github.com/kumarram27/pricetracker)
-  [![Auth UI Vue](https://svg.bookmark.style/api?url=https://github.com/kumarram27/kumarram27.github.io&mode=dark&style=horizontal)](https://github.com/kumarram27/kumarram27.github.io) -->
-<!-- ![kumarram27's github stats](https://github-readme-stats.vercel.app/api?username=kumarram27&show_icons=true&theme=dracula) -->
-<!-- </p> -->
-<!-- </details> -->
