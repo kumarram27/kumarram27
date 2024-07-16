@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<p align="right">
+<div align="right">
   <a href="https://www.linkedin.com/in/kumarsatyasriram" target="_blank">
     <img alt="LinkedIn" title="LinkedIn" height="20" width="20" style="vertical-align: middle;" src="https://cdn.simpleicons.org/linkedin">
   </a>
@@ -16,7 +16,7 @@
     <img alt="dev.to" title="dev.to" height="30" style="vertical-align: middle;" src="https://cdn.simpleicons.org/dev.to/white">
   </a>
   <img height="20" style="vertical-align: middle;" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
-</p>
+</div>
 
 
 
