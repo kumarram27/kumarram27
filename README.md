@@ -6,17 +6,18 @@
 </p>
 
 <div align="right">
-  <a href="https://www.linkedin.com/in/kumarsatyasriram" target="_blank">
-    <img alt="LinkedIn" title="LinkedIn" height="20" width="20" style="vertical-align: middle;" src="https://cdn.simpleicons.org/linkedin">
+  <a href="https://www.linkedin.com/in/kumarsatyasriram" target="_blank" style="text-decoration: none;">
+    <img alt="LinkedIn" height="20" width="20"  src="https://cdn.simpleicons.org/linkedin">
   </a>
-  <a href="https://www.npmjs.com/~kumarsatyasriram" target="_blank">
-    <img alt="npm" title="npm" height="20" width="20" style="vertical-align: middle;" src="https://cdn.simpleicons.org/npm">
+  <a href="https://www.npmjs.com/~kumarsatyasriram" target="_blank" style="text-decoration: none;">
+    <img alt="npm"  height="20" width="20"  src="https://cdn.simpleicons.org/npm">
   </a>
-  <a href="https://dev.to/kumarsatyasriram" target="_blank">
-    <img alt="dev.to" title="dev.to" height="30" style="vertical-align: middle;" src="https://cdn.simpleicons.org/dev.to/white">
+  <a href="https://dev.to/kumarsatyasriram" target="_blank" style="text-decoration: none;">
+    <img alt="dev.to" height="20" src="https://i.imgur.com/mVm29vK.png">
   </a>
-  <img height="20" style="vertical-align: middle;" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+  <img height="20" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 </div>
+
 
 
 
