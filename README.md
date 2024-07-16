@@ -1,12 +1,22 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kumarram27.kumarram27">
 
-<h1 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kumar+....;Nice+to+meet+you!&center=true&size=30">
   </a>
-</h1>
+</p>
+<p align="center">
+  <a href="https://github.com/kumarram27" >
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
+  <a href="https://www.linkedin.com/in/peterthehan" target="_blank" >
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+  <a href="https://www.npmjs.com/~kumarsatyasriram" target="_blank" >
+    <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/npm"></a>
+</p>
 
-
+<br><br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" title="typescript" alt="typescript logo"  />
   <img width="12" />
@@ -44,17 +54,6 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/kumarram27" >
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
-  <a href="https://www.linkedin.com/in/peterthehan" target="_blank" >
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
-  <a href="https://www.npmjs.com/~kumarsatyasriram" target="_blank" >
-    <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/npm"></a>
-</p>
-
-<p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
@@ -69,10 +68,7 @@
 </p>
 <p align="center">
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kumarram27&layout=compact&theme=darcula&hide_border=true&background=FFFFFF00" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarram27&locale=en&hide_title=false&layout=compact&bg_color=00000000&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align=center>
   <div align=center>
@@ -95,12 +91,15 @@
 
 
 <h4 align="center">
-  <a href="https://github.com/kumarram27?tab=repositories" title="Show Repositories" style={}>🔎 Show Repositories 🔍</a>
+  <a href="https://github.com/kumarram27?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h4>
 
-<h2 align="center">Profile Views</h2>
+
+### Profile Views
 <img src="https://profile-counter.glitch.me/kumarram27/count.svg" />
 
+
+<br>
 
 <img src="https://raw.githubusercontent.com/kumarram27/kumarram27/output/snake.svg" alt="Snake animation" />
 
