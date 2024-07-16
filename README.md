@@ -101,7 +101,7 @@
 
 <br>
 
-<!-- <img src="https://raw.githubusercontent.com/kumarram27/kumarram27/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/kumarram27/kumarram27/output/snake.svg" alt="Snake animation" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
