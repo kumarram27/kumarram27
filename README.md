@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kumarram27.kumarram27">
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -9,13 +9,15 @@
   <a href="https://github.com/kumarram27" >
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
+      <img alt="GitHub" title="GitHub" height="32" width="32" src="https://cdn.simpleicons.org/github"></picture></a>
+      &#8287;
   <a href="https://www.linkedin.com/in/peterthehan" target="_blank" >
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+    <img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://cdn.simpleicons.org/linkedin"></a>
+    &#8287;
   <a href="https://www.npmjs.com/~kumarsatyasriram" target="_blank" >
-    <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/npm"></a>
+    <img alt="npm" title="npm" height="32" width="32" src="https://cdn.simpleicons.org/npm"></a>
 </p>
-
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=kumarram27.kumarram27">
 <br><br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" title="typescript" alt="typescript logo"  />
