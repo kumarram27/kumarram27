@@ -1,19 +1,28 @@
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kumar+....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </p>
 
-<p align="center">
-  &#8287;
-  <a href="https://www.linkedin.com/in/peterthehan" target="_blank">
-    <img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://cdn.simpleicons.org/linkedin">
+<p align="right">
+  <a href="https://www.linkedin.com/in/kumarsatyasriram" target="_blank">
+    <img alt="LinkedIn" title="LinkedIn" height="20" width="20" style="vertical-align: middle;" src="https://cdn.simpleicons.org/linkedin">
   </a>
-  &#8287;
+  <img width="1" />
   <a href="https://www.npmjs.com/~kumarsatyasriram" target="_blank">
-    <img alt="npm" title="npm" height="32" width="32" src="https://cdn.simpleicons.org/npm">
+    <img alt="npm" title="npm" height="20" width="20" style="vertical-align: middle;" src="https://cdn.simpleicons.org/npm">
   </a>
+  <img width="1" />
+  <a href="https://dev.to/kumarsatyasriram" target="_blank">
+    <img alt="dev.to" title="dev.to" height="30" style="vertical-align: middle;" src="https://cdn.simpleicons.org/dev.to/white">
+  </a>
+  <img width="1" />
+  <img height="20" style="vertical-align: middle;" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 </p>
+
+
+
 
 <br><br>
 <div align="center">
