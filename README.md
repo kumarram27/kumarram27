@@ -93,9 +93,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarram27&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/kumarram27/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarram27&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/kumarram27/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarram27&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -113,7 +111,7 @@
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/kumarram27?tab=repositories" title="Show Repositories" style={}>🔎 Show More 🔍</a>
+  <a href="https://github.com/kumarram27?tab=repositories" title="Show Repositories" style={}>🔎 Show Repositories 🔍</a>
 </h4>
 
 <img src="https://profile-counter.glitch.me/kumarram27/count.svg" />
