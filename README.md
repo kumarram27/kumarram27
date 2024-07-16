@@ -98,6 +98,7 @@
   <a href="https://github.com/kumarram27?tab=repositories" title="Show Repositories" style={}>🔎 Show Repositories 🔍</a>
 </h4>
 
+<h2 align="center">Profile Views</h2>
 <img src="https://profile-counter.glitch.me/kumarram27/count.svg" />
 
 
