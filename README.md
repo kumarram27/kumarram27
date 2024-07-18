@@ -10,7 +10,7 @@
     <img alt="LinkedIn" title="LinkedIn" height="20" width="20" style="vertical-align: middle;" src="https://cdn.simpleicons.org/linkedin"></a>
   <a href="https://www.npmjs.com/~kumarsatyasriram" target="_blank">
     <img alt="npm" title="npm" height="20" width="20" style="vertical-align: middle;" src="https://cdn.simpleicons.org/npm"></a>
-  <a href="https://dev.to/kumarsatyasriram" target="_blank">
+  <a href="https://dev.to/b_kumar" target="_blank">
     <img alt="dev.to" title="dev.to" height="20" style="vertical-align: middle;" src="https://i.imgur.com/mVm29vK.png"></a>
   <img height="20" style="vertical-align: middle;" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 </div>
@@ -64,7 +64,7 @@
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="eastic" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
