@@ -1,3 +1,17 @@
+<style>
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.rotate {
+  animation: rotate 9s linear infinite;
+}
+</style>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kumar+....;Nice+to+meet+you!&center=true&size=27" alt="Typing SVG">
@@ -11,7 +25,7 @@
     <img alt="npm" title="npm" height="20" width="20" style="vertical-align: middle;" src="https://cdn.simpleicons.org/npm"></a>
   <a href="https://dev.to/kumarsatyasriram" target="_blank">
     <img alt="dev.to" title="dev.to" height="20" style="vertical-align: middle;" src="https://i.imgur.com/mVm29vK.png"></a>
-  <img height="20" style="vertical-align: middle;" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+  <img height="20" style="vertical-align: middle;" src="https://visitor-badge.laobi.icu/badge?page_id=kumarram27.kumarram27">
 </div>
 
 ##
@@ -29,48 +43,55 @@
 <br>
 
 <p align="center" style="pointer-events: none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" title="TypeScript" alt="TypeScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" title="TypeScript" alt="TypeScript" />
   <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" title="React" alt="React logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" title="React" alt="React" class="rotate" />
   <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" title="JavaScript" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" title="JavaScript" alt="JavaScript" />
   <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" title="MySQL" alt="MySQL logo" />
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" height="30" title="Vite" alt="Vite" />
   <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" title="MongoDB" alt="MongoDB logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="30" title="MongoDB" alt="MongoDB" />
   <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" title="C++" alt="C++ logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"        height="30" title="C++" alt="C++" />
   <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" title="PostgreSQL" alt="PostgreSQL logo" />
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="30" title="PostgreSQL" alt="PostgreSQL" />
+  <!-- <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git" alt="Git" /> -->
+  <!-- <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" title="GitLab" alt="GitLab" /> -->
+  <!-- <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" title="jQuery" alt="jQuery" /> -->
   <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git" alt="Git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" title="npm" alt="npm" />
   <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" title="GitLab" alt="GitLab logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" title="npm" alt="bootstrap" />
   <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" title="jQuery" alt="jQuery logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" title="C++" alt="C++" />
   <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" title="npm" alt="npm logo" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="30" title="Java" alt="Java" />
   <img width="9" />
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="30" title="Java" alt="Java logo" />
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="30" title="Python" alt="Python" />
   <img width="9" />
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="30" title="Python" alt="Python logo" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="30" title="Node.js" alt="Node.js" />
   <img width="9" />
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="30" title="Node.js" alt="Node.js logo" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" title="GIT" alt="GIT" />
+  <!-- <img width="9" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="30" title="Kubernetes" alt="Kubernetes" /> -->
   <img width="9" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" title="GIT" alt="GIT logo" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" title="ReactJS" alt="ReactJS" />
   <img width="9" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="30" title="Kubernetes" alt="Kubernetes logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="30" title="Microsoft Azure" alt="Microsoft Azure" />
   <img width="9" />
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" title="ReactJS" alt="ReactJS logo" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="30" title="Docker" alt="Docker" />
   <img width="9" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="30" title="Microsoft Azure" alt="Microsoft Azure logo" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="45" height="30" title="MySQL" alt="MySQL" />
   <img width="9" />
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="40" height="30" title="Docker" alt="Docker logo" />
-  <img width="9" />
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="45" height="30" title="MySQL" alt="MySQL logo" />
-  <img width="9" />
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="45" height="30" title="MongoDB" alt="MongoDB logo" />
-
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"         width="45" height="30" title="MongoDB" alt="MongoDB" />
+  
+  
+          
   <br>
 
   <img src="https://raw.githubusercontent.com/kumarram27/kumarram27/output/snake.svg" alt="Snake animation" />
