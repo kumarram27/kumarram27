@@ -6,14 +6,11 @@
 
 <div align="right" style="text-decoration: none;">
   <a href="https://www.linkedin.com/in/kumarsatyasriram" target="_blank">
-    <img alt="LinkedIn" title="LinkedIn" height="20" width="20" style="vertical-align: middle;" src="https://cdn.simpleicons.org/linkedin">
-  </a>
+    <img alt="LinkedIn" title="LinkedIn" height="20" width="20" style="vertical-align: middle;" src="https://cdn.simpleicons.org/linkedin"></a>
   <a href="https://www.npmjs.com/~kumarsatyasriram" target="_blank">
-    <img alt="npm" title="npm" height="20" width="20" style="vertical-align: middle;" src="https://cdn.simpleicons.org/npm">
-  </a>
+    <img alt="npm" title="npm" height="20" width="20" style="vertical-align: middle;" src="https://cdn.simpleicons.org/npm"></a>
   <a href="https://dev.to/kumarsatyasriram" target="_blank">
-    <img alt="dev.to" title="dev.to" height="20" style="vertical-align: middle;" src="https://i.imgur.com/mVm29vK.png">
-  </a>
+    <img alt="dev.to" title="dev.to" height="20" style="vertical-align: middle;" src="https://i.imgur.com/mVm29vK.png"></a>
   <img height="20" style="vertical-align: middle;" src="https://visitor-badge.laobi.icu/badge?page_id=kumarram27.kumarram27">
 </div>
 
@@ -35,7 +32,7 @@
 <p align="center" style="pointer-events: none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" title="TypeScript" alt="TypeScript" />
   <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" title="React" alt="React" style="animation: rotate 9s linear infinite;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"      height="30" title="React" alt="React"/>
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" title="JavaScript" alt="JavaScript" />
   <img width="9" />
