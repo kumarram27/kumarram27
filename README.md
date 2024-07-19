@@ -14,7 +14,7 @@
   <img height="20" style="vertical-align: middle;" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 </div>
 
-###
+##
 
 <p align="center">
   <div align="center">
@@ -27,7 +27,7 @@
   </div>
 </p>
 
-###
+##
 
 <p align="center" style="pointer-events: none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" title="TypeScript" alt="TypeScript logo" />
