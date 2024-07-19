@@ -41,8 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="30" title="Next.js" alt="Next.js" />
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" title="Tailwind CSS" alt="Tailwind CSS" />
-  <img width="9" />
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="30" title="Express.js" alt="Express.js" />
+  <!-- <img width="9" />
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="30" title="Express.js" alt="Express.js" /> -->
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" title="npm" alt="npm" />
   <img width="9" />
