@@ -31,6 +31,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" title="typescript" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  /> -->
   <!-- <img width="12" /> -->
@@ -58,15 +59,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"  height="30"/> 
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"  height="30"/>
+  <img width="12" /> 
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="30" />
+  <img width="12" />
   <!-- <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring"  height="30"/> -->
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs"  height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT"  height="30"/> 
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT"  height="30"/>
+  <img width="12" /> 
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes"  height="30"/>
+  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="eastic"  height="30"/>
+  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"  height="30"/>
+  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="30"/>
