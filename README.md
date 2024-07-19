@@ -1,18 +1,3 @@
-<style>
-@keyframes rotate {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-.rotate {
-  animation: rotate 9s linear infinite;
-}
-</style>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kumar+....;Nice+to+meet+you!&center=true&size=27" alt="Typing SVG">
@@ -21,11 +6,14 @@
 
 <div align="right" style="text-decoration: none;">
   <a href="https://www.linkedin.com/in/kumarsatyasriram" target="_blank">
-    <img alt="LinkedIn" title="LinkedIn" height="20" width="20" style="vertical-align: middle;" src="https://cdn.simpleicons.org/linkedin"></a>
+    <img alt="LinkedIn" title="LinkedIn" height="20" width="20" style="vertical-align: middle;" src="https://cdn.simpleicons.org/linkedin">
+  </a>
   <a href="https://www.npmjs.com/~kumarsatyasriram" target="_blank">
-    <img alt="npm" title="npm" height="20" width="20" style="vertical-align: middle;" src="https://cdn.simpleicons.org/npm"></a>
+    <img alt="npm" title="npm" height="20" width="20" style="vertical-align: middle;" src="https://cdn.simpleicons.org/npm">
+  </a>
   <a href="https://dev.to/kumarsatyasriram" target="_blank">
-    <img alt="dev.to" title="dev.to" height="20" style="vertical-align: middle;" src="https://i.imgur.com/mVm29vK.png"></a>
+    <img alt="dev.to" title="dev.to" height="20" style="vertical-align: middle;" src="https://i.imgur.com/mVm29vK.png">
+  </a>
   <img height="20" style="vertical-align: middle;" src="https://visitor-badge.laobi.icu/badge?page_id=kumarram27.kumarram27">
 </div>
 
@@ -34,7 +22,8 @@
 <p align="center">
   <div align="center">
     <a href="https://github.com/kumarram27/github-readme-streak-stats" title="Go to Source">
-      <img align="left" height=180 src="https://streak-stats.demolab.com/?user=kumarram27&theme=react&border=61dafb&background=FFFFFF00&hide_border=true" alt="kumarram27 streak stats" /></a>
+      <img align="left" height=180 src="https://streak-stats.demolab.com/?user=kumarram27&theme=react&border=61dafb&background=FFFFFF00&hide_border=true" alt="kumarram27 streak stats" />
+    </a>
     <a href="https://github.com/kumarram27/github-readme-stats">
       <img align="right" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarram27&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&bg_color=00000000&count_weight=0.5" alt="kumarram27 top languages" />
     </a>
@@ -46,7 +35,7 @@
 <p align="center" style="pointer-events: none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" title="TypeScript" alt="TypeScript" />
   <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" title="React" alt="React" class="rotate" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" title="React" alt="React" style="animation: rotate 9s linear infinite;" />
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" title="JavaScript" alt="JavaScript" />
   <img width="9" />
