@@ -19,15 +19,14 @@
 <p align="center">
   <div align="center">
     <a href="https://github.com/kumarram27/github-readme-streak-stats" title="Go to Source">
-      <img align="left" height=180 src="https://streak-stats.demolab.com/?user=kumarram27&theme=react&border=61dafb&background=FFFFFF00&hide_border=true" alt="kumarram27 streak stats" />
-    </a>
+      <img align="left" height=180 src="https://streak-stats.demolab.com/?user=kumarram27&theme=react&border=61dafb&background=FFFFFF00&hide_border=true" alt="kumarram27 streak stats" /></a>
     <a href="https://github.com/kumarram27/github-readme-stats">
       <img align="right" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarram27&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&bg_color=00000000&count_weight=0.5" alt="kumarram27 top languages" />
     </a>
   </div>
 </p>
 
-##
+<br>
 
 <p align="center" style="pointer-events: none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" title="TypeScript" alt="TypeScript logo" />
