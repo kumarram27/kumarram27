@@ -62,9 +62,9 @@
   <img width="9" />
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="30" title="Docker" alt="Docker" />
   <img width="9" />
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="45" height="30" title="MySQL" alt="MySQL" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="30" title="MySQL" alt="MySQL" />
   <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="45" height="30" title="MongoDB" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="30" title="MongoDB" alt="MongoDB" />
 
   <br>
 
