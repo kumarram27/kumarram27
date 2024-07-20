@@ -58,8 +58,6 @@
   <img width="9" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" title="GIT" alt="GIT" />
   <img width="9" />
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" title="ReactJS" alt="ReactJS" />
-  <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="30" title="Redis" alt="Redis" />
   <img width="9" />
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="30" title="Docker" alt="Docker" />
