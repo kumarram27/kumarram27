@@ -16,13 +16,28 @@
 
 ##
 
+<!-- Light Mode -->
 <p align="center">
-  <div align="center">
-    <a href="https://github.com/kumarram27/github-readme-stats">
-      <img align="right" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarram27&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&bg_color=00000000&count_weight=0.5" alt="kumarram27 top languages" />
-    </a>
-  </div>
+  <a href="https://github.com/kumarram27/github-readme-stats">
+    <picture>
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarram27&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=000000&text_color=000000&icon_color=000000&langs_count=8&layout=compact&border_color=000000&hide_border=true&size_weight=0.5&bg_color=00000000&count_weight=0.5"
+      />
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarram27&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&bg_color=00000000&count_weight=0.5"
+      />
+      <img
+        align="center"
+        height="180"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarram27&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&bg_color=00000000&count_weight=0.5"
+        alt="kumarram27 top languages"
+      />
+    </picture>
+  </a>
 </p>
+
 
 <br>
 
