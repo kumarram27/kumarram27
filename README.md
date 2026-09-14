@@ -16,65 +16,104 @@
 
 <br>
 
-<table border="0" style=" border: none;">
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" title="TypeScript" alt="TypeScript" />
-      <img width="9" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50" title="React" alt="React"/>
-      <img width="9" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" title="JavaScript" alt="JavaScript" />
-      <img width="9" />
-      <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" height="50" title="Vite" alt="Vite" />
-      <img width="9" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="50" title="Next.js" alt="Next.js" />
-      <img width="9" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50" title="Tailwind CSS" alt="Tailwind CSS" />
-      <img width="9" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" title="npm" alt="npm" />
-      <img width="9" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="50" title="Bootstrap" alt="Bootstrap" />
-      <img width="9" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" title="C++" alt="C++" />
-      <img width="9" />
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="50" title="Java" alt="Java" />
-      <img width="9" />
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="50" title="Python" alt="Python" />
-      <img width="9" />
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="50" title="Node.js" alt="Node.js" />
-      <img width="9" />
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" title="GIT" alt="GIT" />
-      <img width="9" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="50" title="Redis" alt="Redis" />
-      <img width="9" />
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="50" title="Docker" alt="Docker" />
-      <img width="9" />
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="50" title="MySQL" alt="MySQL" />
-      <img width="9" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="50" title="MongoDB" alt="MongoDB" />
-    </td>
-    <td align="center" style="vertical-align: top;border: none;">
-      <a href="https://github.com/kumarram27/github-readme-stats">
-        <picture>
-          <source
-            media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarram27&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=000000&text_color=000000&icon_color=000000&langs_count=8&layout=compact&border_color=000000&hide_border=true&size_weight=0.5&bg_color=00000000&count_weight=0.5"
-          />
-          <source
-            media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarram27&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&bg_color=00000000&count_weight=0.5"
-          />
-          <img
-            align="center"
-            height="180"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarram27&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&bg_color=00000000&count_weight=0.5"
-            alt="kumarram27 top languages"
-          />
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  Software Engineer who enjoys building things, solving problems, and learning along the way.
+</p>
+
+
+## 👨‍💻 About Me
+
+I'm a Full-Stack Software Engineer with startup experience building production systems across frontend, backend, infrastructure, and device platforms.
+
+At work, I primarily build with **Python, FastAPI, Next.js, React, Redis, Docker, and WebSockets**, working on systems involving real Android and iOS devices.
+
+Some areas I've worked on:
+
+* ⚙️ Backend services and REST APIs
+* 🔌 WebSocket and real-time systems
+* 📱 Android & iOS device infrastructure
+* 🍎 iOS streaming, interaction, recording & automation
+* 🔍 Logging, observability & failure analysis
+* 🤖 AI-assisted log analysis and RCA
+* 🚀 Production deployments and infrastructure
+
+
+## 🛠️ Technologies I Work With
+
+<p align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python" alt="Python" /> 
+  <img width="10" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" title="TypeScript" alt="TypeScript" /> 
+  <img width="10" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" title="JavaScript" alt="JavaScript" /> 
+  <img width="10" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" title="React" alt="React" /> 
+  <img width="10" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" title="Next.js" alt="Next.js" /> 
+  <img width="10" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" title="FastAPI" alt="FastAPI" /> 
+  <img width="10" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" title="Node.js" alt="Node.js" /> <img width="10" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" title="Redis" alt="Redis" /> 
+  <img width="10" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" title="PostgreSQL" alt="PostgreSQL" /> 
+  <img width="10" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="MySQL" alt="MySQL" /> <img width="10" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" title="MongoDB" alt="MongoDB" /> 
+  <img width="10" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="45" title="Elasticsearch" alt="Elasticsearch" /> <img width="10" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" title="Docker" alt="Docker" /> 
+  <img width="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="45" title="Nginx" alt="Nginx" /> 
+  <img width="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git" alt="Git" /> 
+</p>
+
+<p align="center"> <b>Languages:</b> Python · TypeScript · JavaScript · SQL <br> <b>Frontend:</b> React · Next.js <br> <b>Backend:</b> FastAPI · Node.js · REST APIs · WebSockets · Microservices · Kong <br> <b>Databases & Messaging:</b> PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch <br> <b>Infrastructure & Tools:</b> Docker · Nginx · Git · GitLab · Fluent Bit <br> <b>Device & Automation:</b> Android · iOS · Appium · ADB · WebDriverAgent 
+</p>
+---
+
+## 🚧 Currently Building
+
+I'm making an effort to be more active on GitHub and build more projects publicly.
+
+My focus is on turning things I'm learning and working with into **small, practical, production-style projects** rather than just tutorials.
+
+Things I'm interested in building:
+
+* Backend services with **FastAPI**
+* Real-time applications using **WebSockets**
+* Distributed systems and event-driven architectures
+* Developer tools and CLI applications
+* Infrastructure and deployment tooling
+* AI-powered developer tools
+* Device automation and testing infrastructure
+
+> Most of my older public projects were built during college. I'm now working on building and sharing newer projects that reflect my current engineering experience.
+
+
+## 📦 Earlier Projects
+
+### MyGVP Browser Extension & CLI
+
+<a href="https://github.com/kumarram27/gvp">
+  github.com/kumarram27/gvp
+</a>
+
+A Node.js browser extension and CLI for accessing academic results.
+
+* 👥 Used by **500+ students**
+* 🔎 Processed **1,000+ result queries**
+* 📦 Published versioned releases through **npm**
+* 🗄️ Built with Node.js and MongoDB
+
+These projects represent my earlier learning and college-era development. I'll be replacing this section over time with newer projects reflecting my current interests.
+
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarram27&hide_border=true" height="170" />
+</p>
 
   <br>
 
@@ -84,4 +123,8 @@
   <img src="https://raw.githubusercontent.com/kumarram27/kumarram27/output/snake-dark.svg"
   alt="Snake animation" />
   </picture>
+
+
+<p align="center">
+  <i>Building more. Sharing more. Learning in public.</i>
 </p>
